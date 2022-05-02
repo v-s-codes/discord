@@ -16,6 +16,6 @@ Live Website:
 -------------
 
 1. Link:
-    [link](https://p2p-chat-live.herokuapp.com/)
+    [Check Live](https://p2p-chat-live.herokuapp.com/)
 2. Screenshot:
-    ![Image](https://ibb.co/dm0HrPQ "icon")
+    ![Image](https://i.postimg.cc/K8VzXcwT/screenshot.jpg "icon")
